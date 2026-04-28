@@ -15,7 +15,6 @@
 - Data Structures & Algorithms (DSA)
 - Object Oriented Programming (OOP)
 - Basic Python
-- Git & GitHub
 
 ---
 
